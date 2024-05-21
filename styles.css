@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('"https://www.shutterstock.com/image-photo/beautiful-view-modern-cafe-outdoor-600w-2024231051.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Adding a semi-transparent white background to improve readability */
+    border-radius: 10px; /* Adding some border radius for aesthetics */
+}
+.header {
+    text-decoration: #333;
+    text-decoration-color: #333;
+    
+    color: #0e0d0d;
+    text-align: center;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative; /* Add position relative to the header */
+}
+.content {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 20px;
+    color: #0e0d0d;
+}
+.image {
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.navbar {
+    background-color: #fff;
+    overflow: hidden;
+    position: absolute; /* Position the navbar absolutely */
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%); /* Center the navbar vertically */
+}
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 10px; /* Add gap between navbar items */
+}
+.navbar li {
+    margin: 0;
+}
+.navbar a {
+    color: #020202;
+    text-decoration: none;
+    padding: 10px;
+}
+.navbar a.active {
+    background-color: yellow;
+    color: #333;
+}
+@media only screen and (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    .header, .content, .footer {
+        padding: 10px;
+    }
+    .content {
+        grid-template-columns: 100%;
+    }
+    .navbar {
+        position: static;
+        transform: none;
+        margin-top: 10px;
+    }
+    .navbar ul {
+        flex-direction: column;
+    }
+}
