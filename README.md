@@ -33,6 +33,7 @@ Welcome to our Restaurant where culinary excellemce meets a cozy ambiance.Our re
 - **contact.html**: Contact page with contact details and social media links.
 - **styles.css**: CSS file for styling the website.
 - **script.js**: JavaScript file for adding interactive functionality.
+- **assets**:A directory containing images used on the website.
  
 
 Project Link: [https://github.com/your-username/responsive-landing-page](https://github.com/sravanthi-27/responsive-landing-page)
