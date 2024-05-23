@@ -36,8 +36,7 @@ Welcome to our Restaurant where culinary excellemce meets a cozy ambiance.Our re
 - **assets**:A directory containing images used on the website.
  
 
-Project Link: [https://github.com/sravanthi-27/PRODIGY_TrackCode_TaskNumber/edit/main/README.md](https://github.com/sravanthi-27/PRODIGY_TrackCode_TaskNumber/edit/main/README.md)
-
+Project Link: https://github.com/sravanthi-27/PRODIGY_TrackCode_TaskNumber
 ## Screenshot of website
 
 ![Screenshot 2024-05-23 095139](https://github.com/sravanthi-27/PRODIGY_TrackCode_TaskNumber/assets/170450054/2a223915-7c4d-4a72-9a71-e68108e87342)
