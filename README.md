@@ -36,7 +36,7 @@ Welcome to our Restaurant where culinary excellemce meets a cozy ambiance.Our re
 - **assets**:A directory containing images used on the website.
  
 
-Project Link: [https://github.com/sravanthi-27/responsive-landing-page](https://github.com/sravanthi-27/responsive-landing-page)
+Project Link: [https://github.com/sravanthi-27/PRODIGY_TrackCode_TaskNumber/edit/main/README.md](https://github.com/sravanthi-27/PRODIGY_TrackCode_TaskNumber/edit/main/README.md)
 
 ## Screenshot of website
 
