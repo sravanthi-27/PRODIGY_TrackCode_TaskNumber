@@ -1,5 +1,5 @@
 # prodigy-responsive-landing-page
-itory for the Prodigy internship. This project is designed to showcase a modern, fully responsive landing page built with the latest web development technologies.
+This project is designed to showcase a modern, fully responsive landing page built with the latest web development technologies.
 
 
 ## Project Overview
